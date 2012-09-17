@@ -1,0 +1,3 @@
+[
+    { "command": "toggle_readonly", "caption": "Toggle Readonly", "id": "end" }
+]
