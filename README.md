@@ -1,4 +1,4 @@
-Toggle readonly state of buffer from context menu for Sublime Text 2
+Toggle readonly state of buffer from context menu for Sublime Text 2 and 3 (beta)
 
 ## Installation
 Install this repository via [Package Control](http://wbond.net/sublime_packages/package_control)
@@ -18,6 +18,12 @@ This tool doesn't change the file properties in the filesystem. It only changes 
 
 See: http://www.sublimetext.com/docs/2/api_reference.html#sublime.View
 
+## Update
+01.03.2013:
+Toggle Read Only as command: https://github.com/AxxL/sublime-toggle-readonly/pull/1
+Update for Sublime 3: https://github.com/AxxL/sublime-toggle-readonly/issues/2
+
+Well, it takes some time.... Thanks for your patience. :)
 
 ## Link
 https://github.com/AxxL/sublime-toggle-readonly
